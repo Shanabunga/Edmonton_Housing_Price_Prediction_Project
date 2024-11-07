@@ -1,4 +1,4 @@
-# 🏠 Edmonton Housing Price Prediction Project 🏠
+# 🏠📈 Edmonton Housing Price Prediction Project 🌆🏠
 
 This project aims to predict housing prices in Edmonton, Alberta, using various features such as property age, location, and zoning. It supports homeowners and investors in making informed property decisions through data analysis and machine learning models.
 
